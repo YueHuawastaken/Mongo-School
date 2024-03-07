@@ -1,0 +1,9 @@
+[
+    {
+       "_ID" : 2004,
+        "Module Name" : "Science Class",
+        "Module Code" : "SC01",
+        "Students" : [2001,2002,2003],
+        "Class" : [1000]
+    }
+]

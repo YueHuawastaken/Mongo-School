@@ -1,0 +1,24 @@
+[
+    {
+        "_ID" : 2001,
+        "Email": "MarySue@gmail.com",
+        "First name":"Mary",
+        "Last name": "Sue",
+        "Enrolled Date":"2020-01-01"
+      
+    },
+    {
+        "_ID" : 2002,
+        "Email": "DaffyDuck@gmail.com",
+        "First name":"Daffy",
+        "Last name": "Duck",
+        "Enrolled Date" : "2020-01-01"
+    },
+    {
+        "_ID" : 2003,
+        "Email": "MickeyMouse@gmail.com",
+        "First name":"Mickey",
+        "Last name": "Mouse",
+        "Enrolled Date" : "2020-01-01"
+    }
+]
